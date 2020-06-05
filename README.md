@@ -3,6 +3,7 @@
 Hangman game
 Milena
 [Data, Berlin, June 2020) 
+
 Content
 * Project Description
 * Rules
