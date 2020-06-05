@@ -23,4 +23,4 @@ The final step was to run the execution using the variables and functions.
 
 Organization
 I used jupyter notebook and visual studio for writing the code. I was testing the game by activating it from the command line.  
-My repository consists of three files- jupyter, python file and a readme text file. 
+My repository consists of three files- jupyter, python file and a readme file. 
